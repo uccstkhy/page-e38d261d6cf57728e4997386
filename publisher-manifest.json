@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d4fd65b19b6b9de442f4d579",
+  "owner": "uccstkhy",
+  "repo": "page-e38d261d6cf57728e4997386",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e38d261d6cf57728e4997386",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5d750229e471b325f3fcc13d329d90270572d1f569bc2e015aac9f66cb9bd745",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供按流量和设备数选择的网络加速订阅，说明品牌定位、使用场景、三档套餐、官方下载入口与基础连接步骤，不出售账号。",
+          "AI_DESCRIPTION": "TG号批发提供按流量和设备数选择的网络加速订阅，说明品牌定位、使用场景、三档套餐、官方下载入口与基础连接步骤，不出售账号。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{font-size:16px}body{margin:0;background:#FFF7F2;color:#2A211C;font-family:PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif;line-height:1.75}main{display:block;width:100%}.wrap{width:100%;max-width:42rem;margin:0 auto;padding:0 1.25rem}.hero{padding:4.5rem 0 2.25rem}h1{font-size:2.125rem;line-height:1.3;margin:0 0 1.25rem;font-weight:700}h2{font-size:1.5rem;line-height:1.35;margin:0 0 1rem}h3{font-size:1.125rem;line-height:1.4;margin:0 0 .5rem}.lead{font-size:1.0625rem;margin:0;max-width:36rem}nav{padding:.25rem 0 1rem}nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.55rem .85rem}nav a{color:#9E3B28;text-decoration:none;border-bottom:1px solid #E7B2A4;font-size:.9375rem}section{padding:1.6rem 0}p{margin:0 0 1rem}ul,ol{margin:0 0 1rem;padding-left:1.25rem}li{margin:0 0 .45rem}a{color:#9E3B28}.card{background:#fff;border:1px solid #F0D5CC;border-radius:12px;padding:1.2rem 1.15rem;margin:0 0 1rem;width:100%}.featured{border:2px solid #C4513A;background:#FFF1EC}.badge{display:inline-block;background:#9E3B28;color:#fff;font-size:.8125rem;line-height:1.4;padding:.12rem .55rem;border-radius:999px;margin:0 0 .7rem}.price{font-size:1.5rem;font-weight:700;color:#9E3B28;margin:0 0 .2rem}.annual{color:#5C4E48;font-size:.9375rem;margin:0 0 .8rem}details{border-top:1px solid #F0D5CC}summary{font-weight:700;padding:.75rem 0;cursor:pointer}footer{padding:.5rem 0 2.5rem;color:#5C4E48;font-size:.9375rem}p,li,h1,h2,h3,a,summary{overflow-wrap:anywhere}</style><main><header class=\"hero\"><div class=\"wrap\"><h1>TG号批发</h1><p class=\"lead\">TG号批发是一份写给日常使用者的网络加速说明：如何按流量和设备数选择订阅，怎样获取客户端，以及连接前后要核对什么。名称保留对即时沟通的关注，服务本身不是账号买卖。</p></div></header><nav aria-label=\"页面导航\"><div class=\"wrap\"><ul><li><a href=\"#about\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div></nav><section id=\"about\"><div class=\"wrap\"><h2>品牌简介</h2><p>TG号批发把“让常用沟通工具更能连上”做成可核对的加速订阅，而不是号码或账号批发。你已经拥有自己的账号时，本页只讨论线路、流量和客户端；不代注册、不转让、不回收任何第三方账号。</p><p>订阅分为月付和年付。年付是把十二个月费用一次结清后的价格，不是额外赠送不明流量。线路效果会随本地运营商、时段和目标网站变化，因此页面不给出无法复核的速度承诺，只列出各套餐写明的流量、设备数和线路类型。</p><p>官方网站以本页文字为准。客户端请从下方官方下载入口按系统选择，不要把来路不明的安装包当作 TG号批发 的更新。</p></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><h3>远程沟通与轻量办公</h3><p>需要稳定打开邮件、文档和即时通讯时，先选设备数够用的套餐。基础版适合一个人、少量设备；若手机、电脑和平板经常同时在线，再看旗舰版或团队版的在线数量。</p><h3>课程、资料与长文阅读</h3><p>阅读和在线课程通常比高清视频省流量。若主要是文字和偶尔的短视频，不必一上来就选最大额度，可按一个月的实际用量再决定是否升级。</p><h3>流媒体与游戏</h3><p>基础版提供基础流媒体解锁和普通线路。旗舰版写明全节点原生流媒体解锁，并包含 IPLC 专线的游戏加速优化。团队版侧重设备数和高带宽节点，适合多人共用，而不是单人冲最高画质的唯一选择。</p><h3>小团队共用额度</h3><p>团队版支持 20 台设备、每月 1000GB，并提供企业定制路由和专属客户经理。共用前请约定谁负责订阅信息，避免把链接转发到无关群组。</p></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p>三档套餐只比较流量、同时在线设备、线路能力和支持方式。标为推荐的是覆盖面更完整的一档，不是用户评分。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合单人轻度使用：通讯、浏览和偶尔看视频。年付 ¥150 相当于把十二个月的月费一次付清。</p></article><article class=\"card featured\"><p class=\"badge\">推荐对比</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>适合同时使用通讯、流媒体和游戏、又希望工单优先处理的人。设备数仍然有限，超出 5 台请看团队版。</p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>适合小组共用。定制路由需要先说明办公网络结构，客户经理只处理订阅与线路安排，不代管成员的私人账号。</p></article></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><ol><li>在套餐对比里确认月流量、同时在线设备和是否需要 IPLC 或定制路由。</li><li>选定月付或年付。年付金额已写在各档旁边，支付前再对一次数字。</li><li>打开本页<a href=\"#download\">客户端下载</a>，按正在使用的系统获取安装包，并核对名称是否为 TG号批发。</li><li>安装后，在客户端的订阅或导入入口填入购买后给出的订阅信息。不要把订阅信息贴到公开网页或群聊。</li><li>选择一个延迟可接受的节点并连接。先打开常用网页做连通检查，再开始大文件或长时间视频。</li><li>流量接近当月上限时，停止不必要的下载，或在下一周期前升级。多设备同时更新系统会很快吃掉额度。</li></ol><h3>连接后建议核对的三件事</h3><ul><li>当前在线设备是否超过套餐上限。</li><li>所选节点是否属于该套餐可用的线路类型。</li><li>目标网站本身是否在维护，避免把对方故障当成线路故障。</li></ul></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p>官方下载只通过本页入口提供。完成订阅后，按系统选择对应客户端；页面不跳转到站外地址。</p><ul><li><a href=\"#download\">Windows 客户端</a>：适合办公室电脑，导入订阅后保持客户端在前台一次，确认节点列表已刷新。</li><li><a href=\"#download\">macOS 客户端</a>：安装后若系统提示来源，请只继续本页对应的官方下载包。</li><li><a href=\"#download\">Android 客户端</a>：授予联网权限即可，不必开启与加速无关的辅助权限。</li><li><a href=\"#download\">iOS 客户端</a>：按设备系统版本选择可安装的版本，旧系统请先看客户端内的版本说明。</li></ul><p>若安装包名称、图标或说明与 TG号批发 不一致，停止安装，回到本页重新获取。订阅信息泄露后，应在客户端内重置，并减少已登录设备。</p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>TG号批发出售账号或号码吗？</summary><p>不出售。TG号批发只提供网络加速订阅、线路和客户端获取说明。请使用你自己注册并有权使用的账号，本页不提供注册、过户或批量号码。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>先看同时在线设备，再看月流量。1 到 3 台、用量不大选基础版；需要 5 台以内、流媒体和游戏优化选旗舰版；20 台以内的小组选团队版。年付分别是 ¥150、¥350 和 ¥850，对应把该档十二个月费用一次付清。</p></details><details><summary>100GB、300GB 和 1000GB 如何理解？</summary><p>这是各档每月可用的极速流量上限，不是速度。视频、系统更新和云盘同步都会计入。页面不把“不限速”写成可以忽略额度，接近上限时应减少占用或更换更高档。</p></details><details><summary>客户端从哪里下载才算官网？</summary><p>以本页客户端下载一节为官方下载入口，链接留在页面内。不要使用私人转发的压缩包。下载后核对品牌名称，再导入只属于你自己的订阅信息。</p></details><details><summary>连接失败时先查什么？</summary><p>先确认订阅未过期、设备数未超限、节点属于当前套餐。然后切换一次节点，并用普通网页做测试。若只有某一个网站打不开，优先查看该网站状态。旗舰版可走 7x24 优先工单，团队版可联系专属客户经理，请准备套餐名称和大致失败时间，不必附上账号密码。</p></details><details><summary>订阅信息可以分享给同事吗？</summary><p>团队版可以在约定的成员范围内使用，但仍受 20 台设备上限约束。基础版和旗舰版的设备数更少，公开分享会导致自己无法上线，也可能让流量被他人用完。定制路由只按你提交的网络需求配置，不包含成员账号管理。</p></details></div></section><footer><div class=\"wrap\"><p>TG号批发官方网站的套餐、流量和设备数以本页为准。加速体验受本地网络和目标服务影响。返回<a href=\"#top\">页首</a>可再次查看简介与套餐。</p></div></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "ff32b097892b61987588b3f4d0ce1ed601d7f624477a7d795b68fb07d77d704d",
+          "seo": {
+            "title": "TG号批发官网：VPN 网络加速与客户端下载",
+            "keywords": "TG号批发,TG号批发官网,VPN,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "TG号批发提供按流量和设备数选择的网络加速订阅，说明品牌定位、使用场景、三档套餐、官方下载入口与基础连接步骤，不出售账号。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "danyangai.cn",
+    "host": "p-172fa43ead.danyangai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d8e4578f2cf72c52c65583aceb979b8e8ce2fcd6f3cc2a4ae20dc3fb6836db22",
+    "sitemap.xml": "ffe7fcb51bd7eaad916642aba1f4f4318e5eb4e8a7c4883ac21bf9a67fa10a5b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6dfaa705ff30b03d2d1d19fa98f4558f502160e83e27005f93eb3b825c6a70c0",
+    "robots.txt": "0340625f12e69a45265bc7c13c977e9591c2f415de43c2da19afb3a22839241f",
+    "eb8157af6a96d721c0371b3260eaa1e7.txt": "80b1e688cc13ce8db3e2378b8ad26bc0ebe6d7273d57d56817d5fce8a6ce8a73"
+  },
+  "revision": "c1d2ca7aba143581bfec1b0a1abdb807c6bba75ca43f9c3757f893656db2e7ba"
+}
